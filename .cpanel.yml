@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/fredoxig/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+    - /fredlance-react/build -R * $DEPLOYPATH
