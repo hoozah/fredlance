@@ -1,5 +1,6 @@
 {
   "name": "fredlance-react",
+  "homepage":"https://www.fredlance.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
